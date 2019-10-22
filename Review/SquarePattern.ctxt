@@ -1,7 +1,7 @@
 #BlueJ class context
-comment0.target=Triangle
+comment0.target=SquarePattern
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-comment2.params=h1
-comment2.target=void\ triangle(int)
+comment2.params=s
+comment2.target=void\ squarePattern(int)
 numComments=3

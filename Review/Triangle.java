@@ -6,7 +6,7 @@ class Triangle{
         triangle(h);
     }
     
-    public static void triangle(int h1){
+    private static void triangle(int h1){
         int h=h1;
         int total=h*2-1;
         for(int i=1;i<=h;i++){
